@@ -1,0 +1,22 @@
+# Review outputs
+.review-output/
+
+# Dependencies
+node_modules/
+
+# Build
+dist/
+out/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Env
+.env
+.env.local
